@@ -17,7 +17,7 @@ To run our example script, you are going to need a few libraries as well as Node
 1. Once you have your project directory ready for development with Puppeteer.js, open it using Terminal/Command prompt utilising `cd` command.
 2. After that, execute the following command to download our proxy setup example file:
 
-`curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/puppeteer/puppeteer.js > puppeteer.js`
+`curl https://raw.githubusercontent.com/Smartproxy/Puppeteer/master/puppeteer.js > puppeteer.js`
 
 <img src="https://i.imgur.com/OcN3CGd.png">
 
