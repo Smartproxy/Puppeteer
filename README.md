@@ -26,13 +26,13 @@ To run our example script, you are going to need a few libraries as well as Node
 
 `curl https://raw.githubusercontent.com/Smartproxy/Puppeteer/master/puppeteer.js > puppeteer.js`
 
-<img src="https://i.imgur.com/OcN3CGd.png">
+<img src="https://i.imgur.com/OcN3CGd.png" alt="curl smartproxy puppeteer code sample">
 
 3. You should see a new file named puppeteer.js in your project folder. Edit it using an editor of your choice.
 
 4. To setup your username, password and endpoint you would like to use, change the according lines in within punctuation marks ('').
 
-<img src="https://i.imgur.com/ist9aUS.png">
+<img src="https://i.imgur.com/ist9aUS.png" alt="smartproxy puppeteer http proxy configuration using username password authentication">
 
 ### Usage
 
