@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://smartproxy.com/"><img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="Smartproxy logo" width="200" height="50"></a>
+    <a href="https://smartproxy.com/"><img src="https://snipboard.io/3IyORg.jpg"></a>
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 ### Disclaimer
 
 The following example is a simple script showing how to utilize Smartproxy with Puppeteer.js.
-We suggest to reseach [Puppeteer.js](https://github.com/GoogleChrome/puppeteer) documentation in order to continue development with this tool.
+We suggest researching [Puppeteer.js](https://github.com/GoogleChrome/puppeteer) documentation in order to continue development with this tool.
 
 ### Prerequisites
 
@@ -30,7 +30,7 @@ To run our example script, you are going to need a few libraries as well as Node
 
 3. You should see a new file named puppeteer.js in your project folder. Edit it using an editor of your choice.
 
-4. To setup your username, password and endpoint you would like to use, change the according lines in within punctuation marks ('').
+4. To setup your username, password and endpoint you would like to use, change the according lines within punctuation marks ('').
 
 <img src="https://i.imgur.com/ist9aUS.png" alt="smartproxy puppeteer http proxy configuration using username password authentication">
 
@@ -40,7 +40,7 @@ To run this example script, while in your project folder, run the following comm
 
 `node puppeteer.js`
 
-If you did everything correctly, you should see an IP appearing form our proxy server once script finishes running.
+If you did everything correctly, you should see an IP appearing from our proxy server once the script finishes running.
 
 <img src="https://i.imgur.com/4P0d3sM.png">
 
